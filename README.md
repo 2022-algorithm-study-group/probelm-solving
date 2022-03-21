@@ -1,4 +1,4 @@
-# probelm-solving
+# problem-solving
 문제풀이 올리는 저장소
 # study ground rule
 ### 1. 일주일에 5문제를 푼다. 일요일까지 5문제를 푼다.
