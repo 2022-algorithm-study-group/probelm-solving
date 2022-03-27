@@ -3,6 +3,9 @@
 ### 하 난이도 (실버 5 ~ 실버 2)
 
 ### 중 난이도 (실버 2 ~ 골드 5)
+
+0. 출처: https://leetcode.com/company/google/ (1년 최다빈출 중)
+
 1. https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2. https://leetcode.com/problems/maximum-number-of-points-with-cost/ 
 3. https://leetcode.com/problems/minimum-time-difference/
