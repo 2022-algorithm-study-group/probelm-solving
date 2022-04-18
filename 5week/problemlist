@@ -1,6 +1,6 @@
 # 5주차 문제 리스트
-## 1. [increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree/)
-## 2. [diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-## 3. [path-sum-iii](https://leetcode.com/problems/path-sum-iii/)
-## 4. [number-of-islands](https://leetcode.com/problems/number-of-islands/)
-## 5. [binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+## 1. [shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+## 2. [find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
+## 3. [step-by-step-directions-from-a-binary-tree-node-to-another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
+## 4. [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+## 5. [remove-all-ones-with-row-and-column-flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/)
