@@ -4,7 +4,7 @@ import shutil
 
 CURRENT_PATH = os.path.dirname(__file__)
 TEMPLATE_PATH = "{}/template".format(CURRENT_PATH)
-PROBLEMLIST_PATH = "{}/problemlist".format(CURRENT_PATH)
+PROBLEMLIST_PATH = "{}/problemlist.md".format(CURRENT_PATH)
 
 
 def get_subject_and_urls_from_file(file_name):
