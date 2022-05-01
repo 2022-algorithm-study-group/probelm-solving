@@ -9,7 +9,7 @@ class Solution:
         PROCESSING_TIME, START_TIME, IDX = 0, 1, 2
         order = []
         time_heap = []
-        sorted_tasks = deque(sorted([(processing_time, start_time, idx) for idx, [start_time, processing_time] in enumerate(tasks)], key=lambda x:x[1]))
+        sorted_tasks = deque(sorted([(processing_time, start_time, idx) for idx, [start_time, processing_time] in enumerate(tasks)], key=lambda x:x[START_TIME]))
 
         def heap_process(time_heap, now):
             candidates = [heapq.heappop(time_heap)]
@@ -22,7 +22,6 @@ class Solution:
             for candidate in candidates:
                 heapq.heappush(time_heap, candidate)
             return now + task[PROCESSING_TIME]
-
 
         now = sorted_tasks[0][START_TIME]
         while sorted_tasks:
