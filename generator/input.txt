@@ -1,6 +1,6 @@
-9week
-https://leetcode.com/problems/reconstruct-itinerary/
-https://leetcode.com/problems/trapping-rain-water-ii/
-https://leetcode.com/problems/regular-expression-matching/
-https://leetcode.com/problems/range-sum-query-2d-mutable/
-https://leetcode.com/problems/student-attendance-record-i/
+10week
+https://leetcode.com/problems/merge-k-sorted-lists/
+https://leetcode.com/problems/sudoku-solver/
+https://leetcode.com/problems/count-and-say/
+https://leetcode.com/problems/reverse-integer/
+https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
