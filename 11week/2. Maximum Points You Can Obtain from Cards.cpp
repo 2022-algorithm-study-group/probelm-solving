@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // 생각안하고 풀면 dp로 잘못 풀 수 있음
+    
     int maxScore(vector<int>& cardPoints, int k) {
         int race = 0;
         for(int i = 0; i < k; i++){
