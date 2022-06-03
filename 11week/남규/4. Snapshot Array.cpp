@@ -1,4 +1,5 @@
 // Point: umap을 쓰는 공간이 50000번의 unordered_map 복사가 일어날 수 있는데, call이 50000이 아니라 1억개가 들어온다면 괜찮을까?
+// 해싱만 하는것과 BS를 썼을때 trade-off
 
 class SnapshotArray {
 public:
