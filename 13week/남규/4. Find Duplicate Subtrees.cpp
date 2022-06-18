@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// 다른 방법이 있을까 좀 고민해봐야할듯
+
 class Solution {
 public:
     unordered_map<string, int> dups;
