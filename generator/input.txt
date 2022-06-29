@@ -1,6 +1,0 @@
-13week
-https://leetcode.com/problems/range-module/
-https://leetcode.com/problems/minimum-area-rectangle/
-https://leetcode.com/problems/odd-even-jump/
-https://leetcode.com/problems/find-duplicate-subtrees/
-https://leetcode.com/problems/find-original-array-from-doubled-array/
