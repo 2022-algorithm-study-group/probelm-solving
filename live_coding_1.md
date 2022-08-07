@@ -1,6 +1,5 @@
 # 1week (라고 읽고 몇 주차인지 모름)
 
-***
 1. 인풋, 아웃풋 정의
 2. 테스트케이스 대략 작성하면서 엣지 케이스 찾음
     - Array number input이면 정렬, empty, null, single entity 등 엣지케이스를 제시 후 디파인
