@@ -79,3 +79,6 @@ https://leetcode.com/problems/find-original-array-from-doubled-array/
 #14week
 https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
 https://leetcode.com/problems/random-pick-with-weight/
+#15week
+https://leetcode.com/problems/student-attendance-record-ii/
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
